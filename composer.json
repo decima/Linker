@@ -9,6 +9,7 @@
         "ext-dom": "*",
         "ext-iconv": "*",
         "sensio/framework-extra-bundle": "^6.2",
+        "symfony/asset": "6.2.*",
         "symfony/console": "6.2.*",
         "symfony/dotenv": "6.2.*",
         "symfony/finder": "6.2.*",
@@ -16,6 +17,7 @@
         "symfony/framework-bundle": "6.2.*",
         "symfony/lock": "6.2.*",
         "symfony/maker-bundle": "^1.48",
+        "symfony/monolog-bundle": "^3.8",
         "symfony/runtime": "6.2.*",
         "symfony/twig-bundle": "6.2.*",
         "symfony/yaml": "6.2.*",
@@ -71,7 +73,6 @@
     },
     "require-dev": {
         "symfony/debug-bundle": "6.2.*",
-        "symfony/monolog-bundle": "^3.0",
         "symfony/stopwatch": "6.2.*",
         "symfony/web-profiler-bundle": "6.2.*"
     }
